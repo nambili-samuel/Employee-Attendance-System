@@ -26,6 +26,3 @@ A facial recognition-based employee clock-in/out system. This will include a web
 - `frontend/` - HTML templates and static assets
 
 > For demo, admin registration can be done by manually setting `is_admin=True` in the database.
-
-│       └── admin.html
-├── README.md
