@@ -1,10 +1,6 @@
 # Employee-Attendance-System
 A facial recognition-based employee clock-in/out system. This will include a webcam interface, facial recognition, and dashboard to view attendance records.
 
-# Employee Attendance System
-
-A simple Employee Attendance System built with Flask (Python), SQLite, and HTML/CSS/JavaScript.
-
 ## Features
 
 - Employee registration and login
@@ -31,19 +27,5 @@ A simple Employee Attendance System built with Flask (Python), SQLite, and HTML/
 
 > For demo, admin registration can be done by manually setting `is_admin=True` in the database.
 
-employee-attendance-system/
-├── backend/
-│   ├── app.py
-│   ├── models.py
-│   ├── requirements.txt
-├── frontend/
-│   ├── static/
-│   │   ├── style.css
-│   │   └── main.js
-│   └── templates/
-│       ├── index.html
-│       ├── login.html
-│       ├── register.html
-│       ├── dashboard.html
 │       └── admin.html
 ├── README.md
